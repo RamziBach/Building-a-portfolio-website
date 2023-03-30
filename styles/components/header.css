@@ -49,7 +49,7 @@
   }
 
   .header__line {
-    border: 1px solid var(--clr-slate600);
+    border: 1px solid var(--clr-slate800);
     padding-top: 1.5em;
   }
 
